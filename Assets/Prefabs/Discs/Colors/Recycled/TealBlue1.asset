@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3dfea37125741f04688f26f368ed8981, type: 3}
+  m_Name: TealBlue1
+  m_EditorClassIdentifier: 
+  baseColor: {r: 0.34923455, g: 0.6792453, b: 0.5993599, a: 1}
+  stampColor: {r: 0.9716981, g: 0.9716981, b: 0.9716981, a: 0.98039216}
+  patternColor: {r: 0.013958342, g: 0, b: 0.6698113, a: 0.75686276}
+  pattern: {fileID: 21300000, guid: 63cdf2922fea25144b98923f41a8e4b7, type: 3}

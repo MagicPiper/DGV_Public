@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df5d51eb9d99ccb41b32485bc08a4d7a, type: 3}
+  m_Name: Recoil
+  m_EditorClassIdentifier: 
+  mouldName: 11
+  mouldDescription: Neutral distance driver. When you need a disc with good distance
+    and accuracy the Recoil will deliver.
+  discType: 4
+  stability: 2
+  drag: 1.46
+  lift: 2.9
+  turn: 5.8
+  fade: 3.8
+  baseWeight: 175
+  speed: 12
+  mouldStamp: {fileID: 21300000, guid: 95546cfff073eb741a026dc5e445e94e, type: 3}
+  mouldStampAlternate1: {fileID: 0}
+  rarity: 1

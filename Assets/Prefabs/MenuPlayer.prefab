@@ -1,0 +1,210 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1463796203544520
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4077643825454336}
+  m_Layer: 0
+  m_Name: DiscHolder
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4077643825454336
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1463796203544520}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 1.7, z: -0.5100021}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4343988611280214}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1663312598854998
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4343988611280214}
+  m_Layer: 0
+  m_Name: CameraPivot
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4343988611280214
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1663312598854998}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4909356413838798}
+  - {fileID: 4077643825454336}
+  m_Father: {fileID: 4758741518406658}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1833108787504172
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4758741518406658}
+  - component: {fileID: 114514792047468540}
+  m_Layer: 0
+  m_Name: MenuPlayer
+  m_TagString: Player
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4758741518406658
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1833108787504172}
+  m_LocalRotation: {x: -0, y: -0.8639016, z: -0, w: 0.5036606}
+  m_LocalPosition: {x: 157.53, y: 2.05, z: 135.54}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4343988611280214}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114514792047468540
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1833108787504172}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 193cc76b107b1634fa88e680b6755bfa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  rotMod: 0.01
+  testDiscs:
+  - discProperties: 05000000
+    mouldName: 1
+    discColor: {r: 0.8308824, g: 0.37267518, b: 0.37267518, a: 1}
+    stampColor: {r: 0.89705884, g: 0.78096884, b: 0.13192044, a: 0.78431374}
+  - discProperties: 05000000
+    mouldName: 5
+    discColor: {r: 0.291955, g: 0.7941176, b: 0.4616514, a: 1}
+    stampColor: {r: 0.53768384, g: 0.7801978, b: 0.8602941, a: 0.78431374}
+  - discProperties: 05000000
+    mouldName: 2
+    discColor: {r: 0.45198962, g: 0.74976134, b: 0.8088235, a: 1}
+    stampColor: {r: 0.78676474, g: 0.63483775, b: 0, a: 0.78431374}
+  - discProperties: 05000000
+    mouldName: 7
+    discColor: {r: 0.9485294, g: 0.78498983, b: 0.35569853, a: 1}
+    stampColor: {r: 0.8897059, g: 0.8897059, b: 0.8897059, a: 0.78431374}
+  - discProperties: 05000000
+    mouldName: 3
+    discColor: {r: 0.3954909, g: 0.44773895, b: 0.6985294, a: 1}
+    stampColor: {r: 0.8308824, g: 0.8308824, b: 0.8308824, a: 0.78431374}
+  - discProperties: 05000000
+    mouldName: 6
+    discColor: {r: 0.9117647, g: 0.7538241, b: 0.09385811, a: 1}
+    stampColor: {r: 0.6121324, g: 0.6895284, b: 0.8161765, a: 0.78431374}
+  discPrefab: {fileID: 1721550372401794, guid: 885a69d4ac0176b4b85f648d9a7f71d7, type: 3}
+  curentDisc: {fileID: 0}
+  curentDiscScript: {fileID: 0}
+  discHolder: {fileID: 1463796203544520}
+  rotateAroundPoint: {fileID: 4343988611280214}
+  strokes: 0
+  throwDistance: 0
+  lie: {x: 0, y: 0, z: 0}
+  playerCamera: {fileID: 0}
+  playerCameraScript: {fileID: 0}
+  mainCam: {fileID: 4909356413838798}
+  puttCam: {fileID: 4909356413838798}
+  action: {fileID: 0}
+  outOfBounds: 0
+  outOfBoundsWater: 0
+  outOfBoundsPosition: {x: 0, y: 0, z: 0}
+  missedMando: 0
+  mandoPosition: {x: 0, y: 0, z: 0}
+  windManager: {fileID: 0}
+  waterDepthScript: {fileID: 0}
+  snow: {fileID: 0}
+  rain: {fileID: 0}
+  UICanvas: {fileID: 1361406212995386, guid: 0a8721470e769d14fbb9548dc523c36a, type: 3}
+  UI: {fileID: 0}
+  throwUICanvas: {fileID: 1684245304107938, guid: 2a95d21e86eff2649be4b1b2874251d4,
+    type: 3}
+  throwUI: {fileID: 0}
+  scoreScreenCanvas: {fileID: 114586975618328582, guid: 24b005cf65ff5a243addad63bb094d2c,
+    type: 3}
+  practiceScoreScreenCanvas: {fileID: 114298558244958710, guid: 51af1f5cb59bb3b448dba366a4f50509,
+    type: 3}
+  discSelectCanvas: {fileID: 1174627853339214, guid: 65c53b1706372164884c829cf8118ce5,
+    type: 3}
+  discSelect: {fileID: 0}
+  gameState: {fileID: 11400000, guid: 3522932fce1bec243974cf0cf2b3a6c7, type: 2}
+  reachBackLineRenderer: {fileID: 0}
+  birbController: {fileID: 0}
+  replayThrow:
+    disc:
+      discProperties: 
+      mouldName: 0
+      discColor: {r: 0, g: 0, b: 0, a: 0}
+      stampColor: {r: 0, g: 0, b: 0, a: 0}
+    position: []
+    velocity: []
+    rotation: []
+--- !u!1 &1846114561887566
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4909356413838798}
+  m_Layer: 0
+  m_Name: CameraPosition
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4909356413838798
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1846114561887566}
+  m_LocalRotation: {x: 0.01745245, y: 0, z: 0, w: 0.99984777}
+  m_LocalPosition: {x: 0, y: 2.91, z: -3.689998}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4343988611280214}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 2, y: 0, z: 0}

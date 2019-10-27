@@ -1,0 +1,224 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MenuScene.unity
+    guid: 17a0dbb0592731c49b86a1336329ca59
+  - enabled: 1
+    path: Assets/Scenes/C1- Sunshine Glade/C1H1.unity
+    guid: ceaeda410bee9d64e9ab81d3df071526
+  - enabled: 1
+    path: Assets/Scenes/C1- Sunshine Glade/C1H2.unity
+    guid: 9c0c20e0767c97c4fbd9b075da265db4
+  - enabled: 1
+    path: Assets/Scenes/C1- Sunshine Glade/C1H3.unity
+    guid: 721f9bfdfbc861147b3ed8dd979d40d2
+  - enabled: 1
+    path: Assets/Scenes/C1- Sunshine Glade/C1H4.unity
+    guid: 1cdc5f9b2e0c48547ad23770af96f21a
+  - enabled: 1
+    path: Assets/Scenes/C1- Sunshine Glade/C1H5.unity
+    guid: e2cf1b34067985c4f9a94ee14a63a760
+  - enabled: 1
+    path: Assets/Scenes/C2 - Blueberry Thicket/C2H1.unity
+    guid: 82f25576a155f3a4dba7fa6b8979f7a7
+  - enabled: 1
+    path: Assets/Scenes/C2 - Blueberry Thicket/C2H2.unity
+    guid: 7e00f250f291c7742af2a553bef99e74
+  - enabled: 1
+    path: Assets/Scenes/C2 - Blueberry Thicket/C2H4.unity
+    guid: f09bd9a219c6ab049a4f036b68928d87
+  - enabled: 1
+    path: Assets/Scenes/C2 - Blueberry Thicket/C2H3.unity
+    guid: 9b0467c7d1565ef49adb704cc880a4ef
+  - enabled: 1
+    path: Assets/Scenes/C2 - Blueberry Thicket/C2H5.unity
+    guid: 3f47f43b8475a0b4b9057c48b3956a9e
+  - enabled: 1
+    path: Assets/Scenes/C2 - Blueberry Thicket/C2H6.unity
+    guid: 5fd7b32c7ad865c4588749d23076f242
+  - enabled: 1
+    path: Assets/Scenes/C2 - Blueberry Thicket/C2H7.unity
+    guid: feac0f7792f30084fbdb80fc4c05a362
+  - enabled: 1
+    path: Assets/Scenes/C2 - Blueberry Thicket/C2H8.unity
+    guid: 1c8eba8d87d00fe41b82466f44c511fc
+  - enabled: 1
+    path: Assets/Scenes/C2 - Blueberry Thicket/C2H9.unity
+    guid: 8b48ae6ff11b29242a24e034d8e6a26a
+  - enabled: 1
+    path: Assets/Scenes/C3 - Oak Hill/C3H1.unity
+    guid: 4b00c5b2a86023c4898facd3fd18464a
+  - enabled: 1
+    path: Assets/Scenes/C3 - Oak Hill/C3H2.unity
+    guid: 2fde219a9df02594382d3d8a3753cc0a
+  - enabled: 1
+    path: Assets/Scenes/C3 - Oak Hill/C3H3.unity
+    guid: d594ca5bc3c2b244e8be34c270736855
+  - enabled: 1
+    path: Assets/Scenes/C3 - Oak Hill/C3H4.unity
+    guid: 5a88f4e637218b6409fcb97999924998
+  - enabled: 1
+    path: Assets/Scenes/C3 - Oak Hill/C3H5.unity
+    guid: 5816ffb4500aeac4e9ea101ca36a431c
+  - enabled: 1
+    path: Assets/Scenes/C3 - Oak Hill/C3H6.unity
+    guid: 95326aa624d1ba34295388b248d3c141
+  - enabled: 1
+    path: Assets/Scenes/C3 - Oak Hill/C3H7.unity
+    guid: a279640b569f1fa40950efe6ade82fa1
+  - enabled: 1
+    path: Assets/Scenes/C3 - Oak Hill/C3H8.unity
+    guid: 3e1dd6ac7d4f1c5499b2fa4148251741
+  - enabled: 1
+    path: Assets/Scenes/C3 - Oak Hill/C3H9.unity
+    guid: c8f2120f0a086884bbb4e8e751555106
+  - enabled: 1
+    path: Assets/Scenes/C4 - Lakeside/C4H1.unity
+    guid: a5e9f5f5b8a05ce43a1cc203614ce2ce
+  - enabled: 1
+    path: Assets/Scenes/C4 - Lakeside/C4H2.unity
+    guid: 1db0f7b79afc7794f88e965fab5d67d6
+  - enabled: 1
+    path: Assets/Scenes/C4 - Lakeside/C4H3.unity
+    guid: 749a0b2e412dd9044b1cdbdc61b6c5d3
+  - enabled: 1
+    path: Assets/Scenes/C4 - Lakeside/C4H4.unity
+    guid: c398012d6796edb41af597c7964e9c8f
+  - enabled: 1
+    path: Assets/Scenes/C4 - Lakeside/C4H5.unity
+    guid: 212792f10ac85b145ac7bb479823dbe8
+  - enabled: 1
+    path: Assets/Scenes/C4 - Lakeside/C4H6.unity
+    guid: 6cb61e72ea06f0041bcfd79f6d2fe9b5
+  - enabled: 1
+    path: Assets/Scenes/C4 - Lakeside/C4H7.unity
+    guid: 318645c13cff0ce4f8a788d853a5729b
+  - enabled: 1
+    path: Assets/Scenes/C4 - Lakeside/C4H8.unity
+    guid: 01952ceebe4a1604ea04117a6aae95a9
+  - enabled: 1
+    path: Assets/Scenes/C4 - Lakeside/C4H9.unity
+    guid: 6c5698cd34ba52b4f8f4242b2470792f
+  - enabled: 1
+    path: Assets/Scenes/C5 - Windswept Fields/C5H1.unity
+    guid: d99b694b56a9c4b4ea402dfd47243161
+  - enabled: 1
+    path: Assets/Scenes/C5 - Windswept Fields/C5H2.unity
+    guid: cc4c1c617b279b9469777a1ca9303503
+  - enabled: 1
+    path: Assets/Scenes/C5 - Windswept Fields/C5H3.unity
+    guid: 11eaf6fcc55c5a54fa34b63acfb905a6
+  - enabled: 1
+    path: Assets/Scenes/C5 - Windswept Fields/C5H4.unity
+    guid: 670759d2f91712b4c8fa9a43e0806d71
+  - enabled: 1
+    path: Assets/Scenes/C5 - Windswept Fields/C5H5.unity
+    guid: 7ad198e9d37c6264cae32a41a72f2eaf
+  - enabled: 1
+    path: Assets/Scenes/C5 - Windswept Fields/C5H6.unity
+    guid: d1de2aa4fe5f84941a08e596fb184f3b
+  - enabled: 1
+    path: Assets/Scenes/C5 - Windswept Fields/C5H7.unity
+    guid: 2a710049c4b531b4c9361819b8735023
+  - enabled: 1
+    path: Assets/Scenes/C5 - Windswept Fields/C5H8.unity
+    guid: 2a83c899deb692d47816d5800c7b18ec
+  - enabled: 1
+    path: Assets/Scenes/C5 - Windswept Fields/C5H9.unity
+    guid: 650d22c28118edb4685547740e5a1711
+  - enabled: 1
+    path: Assets/Scenes/C6 - Harrowing Woods/C6H1.unity
+    guid: 2c459dba4f8c4e3409195ff1b9a6a37e
+  - enabled: 1
+    path: Assets/Scenes/C6 - Harrowing Woods/C6H2.unity
+    guid: adfd6b2d3a351b74fa1a4d6bf902eb62
+  - enabled: 1
+    path: Assets/Scenes/C6 - Harrowing Woods/C6H3.unity
+    guid: fdbcc990d6ae84d40b984596c0486468
+  - enabled: 1
+    path: Assets/Scenes/C6 - Harrowing Woods/C6H4.unity
+    guid: b9c30276b815c354faa59d258eb77a71
+  - enabled: 1
+    path: Assets/Scenes/C6 - Harrowing Woods/C6H5.unity
+    guid: 5212446fb7bc345449ab02b785f77c02
+  - enabled: 1
+    path: Assets/Scenes/C6 - Harrowing Woods/C6H6.unity
+    guid: d86667b5920ac06429956d969f5728d0
+  - enabled: 1
+    path: Assets/Scenes/C6 - Harrowing Woods/C6H7.unity
+    guid: 42cced5ccab9cc547afd576e59d74a82
+  - enabled: 1
+    path: Assets/Scenes/C6 - Harrowing Woods/C6H8.unity
+    guid: 8e8bfc6d1e2434f4887e5701cd61011d
+  - enabled: 1
+    path: Assets/Scenes/C6 - Harrowing Woods/C6H9.unity
+    guid: eca30e6bedb7b784d9687805729d82cf
+  - enabled: 1
+    path: Assets/Scenes/C7 - The Crows Nest/C7H1.unity
+    guid: c375928cc21210f449eefa41d65efc2c
+  - enabled: 1
+    path: Assets/Scenes/C7 - The Crows Nest/C7H2.unity
+    guid: 3992f743eb9872243bdd3d2bce8f2a3c
+  - enabled: 1
+    path: Assets/Scenes/C7 - The Crows Nest/C7H3.unity
+    guid: 9f31713e234c53b4090bf7d0123c5bc3
+  - enabled: 1
+    path: Assets/Scenes/C7 - The Crows Nest/C7H4.unity
+    guid: 982e9addd3ccaa94292a2b3d8ff361e7
+  - enabled: 1
+    path: Assets/Scenes/C7 - The Crows Nest/C7H5.unity
+    guid: bdb36cdc851c60849b3d9f55c801ce73
+  - enabled: 1
+    path: Assets/Scenes/C7 - The Crows Nest/C7H6.unity
+    guid: 3e13106e5e712834c8d249695c84b22a
+  - enabled: 1
+    path: Assets/Scenes/C7 - The Crows Nest/C7H7.unity
+    guid: c65d75956bafcb74c8e1dd42d452f21c
+  - enabled: 1
+    path: Assets/Scenes/C7 - The Crows Nest/C7H8.unity
+    guid: 5131cea21bea7434aa5bf55f0a3210ff
+  - enabled: 1
+    path: Assets/Scenes/C7 - The Crows Nest/C7H9.unity
+    guid: f939eaed8376c3a4dae67ee13fc39796
+  - enabled: 1
+    path: Assets/Scenes/C8 - Grizzly Gulch/C8H1.unity
+    guid: 2a6acd359b12a274ba0797c74f90ea92
+  - enabled: 1
+    path: Assets/Scenes/C8 - Grizzly Gulch/C8H2.unity
+    guid: 5bf81a5b8ed676b4d8f08b9e72127e7c
+  - enabled: 1
+    path: Assets/Scenes/C8 - Grizzly Gulch/C8H3.unity
+    guid: 64d831bd819175d4b84e47f2ad3695ff
+  - enabled: 1
+    path: Assets/Scenes/C8 - Grizzly Gulch/C8H4.unity
+    guid: f5dab83f3d79a6840becdd18962bca7b
+  - enabled: 1
+    path: Assets/Scenes/C8 - Grizzly Gulch/C8H5.unity
+    guid: 028217dbf5c272c468b1dcd81060a874
+  - enabled: 1
+    path: Assets/Scenes/C8 - Grizzly Gulch/C8H6.unity
+    guid: fc8ccab0d9f5dc04492f742a6eb52893
+  - enabled: 1
+    path: Assets/Scenes/C8 - Grizzly Gulch/C8H7.unity
+    guid: e3c5012419b36fe419c395e2efdb4088
+  - enabled: 1
+    path: Assets/Scenes/C8 - Grizzly Gulch/C8H8.unity
+    guid: 8709c115d7235ae4696d4f3e58f8abb1
+  - enabled: 1
+    path: Assets/Scenes/C8 - Grizzly Gulch/C8H9.unity
+    guid: 49ce4f4db5c0913499605a569a18a806
+  - enabled: 1
+    path: Assets/Scenes/PracticeMaps/Putting.unity
+    guid: 53c6da40fbe76d34b8d38d5445abf781
+  - enabled: 1
+    path: Assets/Scenes/PracticeMaps/TargetPractice.unity
+    guid: 4a4e1fbb2736fe84bb8d53a90111ba15
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  m_configObjects: {}

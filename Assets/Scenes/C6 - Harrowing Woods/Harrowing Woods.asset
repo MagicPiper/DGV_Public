@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb559323c0be7f94b9b003fa2c75e840, type: 3}
+  m_Name: Harrowing Woods
+  m_EditorClassIdentifier: 
+  courseID: 6
+  courseVersion: v2
+  courseName: Harrowing Woods
+  courseDescription: Some say this dark forest is haunted. Seems like a strange place
+    to build a disc golf course, but here we are.
+  holes:
+  - par: 3
+    difficulty: -0.15
+    holeScene: C6H1
+    preferedShot: 0
+  - par: 3
+    difficulty: -0.11
+    holeScene: C6H2
+    preferedShot: 0
+  - par: 3
+    difficulty: -0.44
+    holeScene: C6H3
+    preferedShot: 0
+  - par: 3
+    difficulty: -0.34
+    holeScene: C6H4
+    preferedShot: 2
+  - par: 4
+    difficulty: -0.3
+    holeScene: C6H5
+    preferedShot: 2
+  - par: 4
+    difficulty: -0.076
+    holeScene: C6H6
+    preferedShot: 2
+  - par: 3
+    difficulty: -0.034
+    holeScene: C6H7
+    preferedShot: 1
+  - par: 4
+    difficulty: 0.52
+    holeScene: C6H8
+    preferedShot: 2
+  - par: 5
+    difficulty: 0.16
+    holeScene: C6H9
+    preferedShot: 2
+  challengeLimits: 0d00000000000000f8ffffff
+  challengeRewards:
+  - discProperties: 
+    mouldName: 7
+    discColor: {r: 0.3897059, g: 1, b: 0.8484788, a: 1}
+    stampColor: {r: 0.9044118, g: 0.9044118, b: 0.9044118, a: 0.834}
+    colorsName: Teal1
+    stampVariant: 0
+  - discProperties: 03000000
+    mouldName: 6
+    discColor: {r: 1, g: 0.39705884, b: 0.39705884, a: 1}
+    stampColor: {r: 1, g: 0.8795132, b: 0.20588237, a: 0.722}
+    colorsName: White3
+    stampVariant: 0
+  - discProperties: 0800000005000000
+    mouldName: 4
+    discColor: {r: 1, g: 0.8172414, b: 0.2205882, a: 1}
+    stampColor: {r: 0.33088237, g: 0.33088237, b: 0.33088237, a: 0.809}
+    colorsName: RedBlack1
+    stampVariant: 0
+  starsToUnlock: 8
+  courseImage: {fileID: 21300000, guid: 9143183efd275f64b82df3eaea75b132, type: 3}

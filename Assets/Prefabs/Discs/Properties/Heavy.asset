@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c2b30712cdf9ba47aa2dafcd7b815f3, type: 3}
+  m_Name: Heavy
+  m_EditorClassIdentifier: 
+  type: 6
+  description: This disc weighs a bit more. Good in the wind but loses some distance.
+  propertyName: Heavy
+  value: 0
+  uiColor:
+    r: 0.3897059
+    g: 0.3897059
+    b: 0.3897059
+    a: 1

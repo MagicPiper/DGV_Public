@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb559323c0be7f94b9b003fa2c75e840, type: 3}
+  m_Name: SunshineGlade
+  m_EditorClassIdentifier: 
+  courseID: 1
+  courseVersion: 
+  courseName: Sunshine Glade
+  courseDescription: Sunshine glade is a sunny forested area, protected from the wind.
+    Pretty ideal for a disc golf course.
+  holes:
+  - par: 3
+    difficulty: -0.69
+    holeScene: C1H1
+    preferedShot: 2
+  - par: 3
+    difficulty: -0.49
+    holeScene: C1H2
+    preferedShot: 2
+  - par: 3
+    difficulty: -0.43
+    holeScene: C1H3
+    preferedShot: 1
+  - par: 3
+    difficulty: -0.42
+    holeScene: C1H4
+    preferedShot: 2
+  - par: 4
+    difficulty: -0.22
+    holeScene: C1H5
+    preferedShot: 2
+  challengeLimits: 0a00000000000000fbffffff
+  challengeRewards:
+  - discProperties: 01000000
+    mouldName: 2
+    discColor: {r: 0.34553418, g: 0.45691592, b: 0.6102941, a: 1}
+    stampColor: {r: 0.88235295, g: 0.88235295, b: 0.88235295, a: 0.78431374}
+    colorsName: Blue1
+    stampVariant: 0
+  - discProperties: 04000000
+    mouldName: 1
+    discColor: {r: 0.8161765, g: 0.6061311, b: 0.775616, a: 1}
+    stampColor: {r: 0.73918986, g: 0.7647059, b: 0.50043255, a: 0.78431374}
+    colorsName: Green1
+    stampVariant: 0
+  - discProperties: 02000000
+    mouldName: 3
+    discColor: {r: 0.875, g: 0.6194219, b: 0.2959559, a: 1}
+    stampColor: {r: 0.875, g: 0.875, b: 0.875, a: 0.78431374}
+    colorsName: BlueBlack1
+    stampVariant: 0
+  starsToUnlock: 0
+  courseImage: {fileID: 21300000, guid: 6a15f03b86fb5224e9d5bdf356e90812, type: 3}

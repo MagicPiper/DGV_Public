@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3dfea37125741f04688f26f368ed8981, type: 3}
+  m_Name: GreenBurst1
+  m_EditorClassIdentifier: 
+  baseColor: {r: 0.62362045, g: 0.9245283, b: 0.7138359, a: 1}
+  stampColor: {r: 0.9150943, g: 0.77692187, b: 0.5999911, a: 0.98039216}
+  patternColor: {r: 0.13519043, g: 0.5849056, b: 0.13953188, a: 0.94509804}
+  pattern: {fileID: 21300000, guid: 9851e1b70be34d2429749ef6bb4bdb26, type: 3}

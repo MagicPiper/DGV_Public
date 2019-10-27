@@ -1,0 +1,93 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="water_data" version="1.3.0" audacityversion="2.2.2" sel0="9.0968222070" sel1="9.0968222070" vpos="64" h="0.0000000000" zoom="19.1275586179" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags/>
+	<wavetrack name="67884__benboncan__lake-waves-2" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1814487">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808493.au" len="169575" min="-0.139801" max="0.149384" rms="0.011152"/>
+				</waveblock>
+				<waveblock start="169575">
+					<simpleblockfile filename="e08086fd.au" len="169576" min="-0.213867" max="0.178223" rms="0.01043"/>
+				</waveblock>
+				<waveblock start="339151">
+					<simpleblockfile filename="e0808b0b.au" len="262144" min="-0.232483" max="0.275513" rms="0.016053"/>
+				</waveblock>
+				<waveblock start="601295">
+					<simpleblockfile filename="e08081e3.au" len="262144" min="-0.264191" max="0.253998" rms="0.016064"/>
+				</waveblock>
+				<waveblock start="863439">
+					<simpleblockfile filename="e08088e5.au" len="262144" min="-0.13736" max="0.144989" rms="0.008557"/>
+				</waveblock>
+				<waveblock start="1125583">
+					<simpleblockfile filename="e0808ef4.au" len="262144" min="-0.222443" max="0.230042" rms="0.009281"/>
+				</waveblock>
+				<waveblock start="1387727">
+					<simpleblockfile filename="e080842e.au" len="262144" min="-0.102729" max="0.113209" rms="0.00614"/>
+				</waveblock>
+				<waveblock start="1649871">
+					<simpleblockfile filename="e08085d3.au" len="164616" min="-0.085643" max="0.089016" rms="0.00415"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="67884__benboncan__lake-waves-2" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1814487">
+				<waveblock start="0">
+					<simpleblockfile filename="e080810e.au" len="169575" min="-0.348907" max="0.291229" rms="0.021706"/>
+				</waveblock>
+				<waveblock start="169575">
+					<simpleblockfile filename="e080845a.au" len="169576" min="-0.324249" max="0.270538" rms="0.012864"/>
+				</waveblock>
+				<waveblock start="339151">
+					<simpleblockfile filename="e08082b0.au" len="262144" min="-0.241394" max="0.194122" rms="0.014492"/>
+				</waveblock>
+				<waveblock start="601295">
+					<simpleblockfile filename="e08088ea.au" len="262144" min="-0.293549" max="0.35144" rms="0.017352"/>
+				</waveblock>
+				<waveblock start="863439">
+					<simpleblockfile filename="e08088fe.au" len="262144" min="-0.173187" max="0.154602" rms="0.011269"/>
+				</waveblock>
+				<waveblock start="1125583">
+					<simpleblockfile filename="e08083a4.au" len="262144" min="-0.34317" max="0.300598" rms="0.013351"/>
+				</waveblock>
+				<waveblock start="1387727">
+					<simpleblockfile filename="e08085d1.au" len="262144" min="-0.149593" max="0.172187" rms="0.009065"/>
+				</waveblock>
+				<waveblock start="1649871">
+					<simpleblockfile filename="e08088cf.au" len="164616" min="-0.0608" max="0.075716" rms="0.003293"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="67884__benboncan__lake-waves-2" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="31.00240363" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="447281">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808611.au" len="262144" min="-0.341756" max="0.282245" rms="0.008844"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0808b31.au" len="185137" min="-0.3906" max="0.363393" rms="0.018065"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="67884__benboncan__lake-waves-2" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="31.00240363" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="447281">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808e5f.au" len="262144" min="-0.104669" max="0.107782" rms="0.00578"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e080896f.au" len="185137" min="-0.375002" max="0.326274" rms="0.015731"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>

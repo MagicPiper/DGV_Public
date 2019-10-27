@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb559323c0be7f94b9b003fa2c75e840, type: 3}
+  m_Name: Grizzly Gulch
+  m_EditorClassIdentifier: 
+  courseID: 8
+  courseVersion: v1
+  courseName: Grizzly Gulch
+  courseDescription: Bears. Bushes. Bogeys. If you can avoid these Grizzly Gulch offers
+    some first class Disc Golf action.
+  holes:
+  - par: 3
+    difficulty: -0.5
+    holeScene: C8H1
+    preferedShot: 2
+  - par: 3
+    difficulty: -0.5
+    holeScene: C8H2
+    preferedShot: 1
+  - par: 4
+    difficulty: -0.65
+    holeScene: C8H3
+    preferedShot: 2
+  - par: 3
+    difficulty: -0.09
+    holeScene: C8H4
+    preferedShot: 2
+  - par: 4
+    difficulty: 0.25
+    holeScene: C8H5
+    preferedShot: 2
+  - par: 4
+    difficulty: -0.003
+    holeScene: C8H6
+    preferedShot: 1
+  - par: 3
+    difficulty: -0.16
+    holeScene: C8H7
+    preferedShot: 2
+  - par: 4
+    difficulty: 0.025
+    holeScene: C8H8
+    preferedShot: 1
+  - par: 3
+    difficulty: 0.24
+    holeScene: C8H9
+    preferedShot: 2
+  challengeLimits: 0500000000000000f7ffffff
+  challengeRewards:
+  - discProperties: 05000000
+    mouldName: 9
+    colorsName: DarkGreen1
+    stampVariant: 0
+  - discProperties: 0500000002000000
+    mouldName: 3
+    colorsName: Blue3
+    stampVariant: 0
+  - discProperties: 0a000000
+    mouldName: 11
+    colorsName: BlueYellow1
+    stampVariant: 0
+  starsToUnlock: 12
+  courseImage: {fileID: 21300000, guid: 0d6efe8c2c747f3429f346db632a39dd, type: 3}

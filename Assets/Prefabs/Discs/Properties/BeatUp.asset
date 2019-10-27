@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c2b30712cdf9ba47aa2dafcd7b815f3, type: 3}
+  m_Name: BeatUp
+  m_EditorClassIdentifier: 
+  type: 1
+  description: This disc has seen better days. It's not as fast as it once was.
+  propertyName: Beat Up
+  value: 1.1
+  uiColor: {r: 0.61764705, g: 0.33607265, b: 0.33607265, a: 1}

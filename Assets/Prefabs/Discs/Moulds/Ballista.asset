@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df5d51eb9d99ccb41b32485bc08a4d7a, type: 3}
+  m_Name: Ballista
+  m_EditorClassIdentifier: 
+  mouldName: 12
+  mouldDescription: One of the fastest discs in the world combined with a dependable
+    flight path makes the Ballista a must-have in your bag.
+  discType: 4
+  stability: 2
+  drag: 1.37
+  lift: 2.95
+  turn: 5.95
+  fade: 3.43
+  baseWeight: 175
+  speed: 14
+  mouldStamp: {fileID: 21300000, guid: 9215753388bf931409ffbb448d8afcaa, type: 3}
+  mouldStampAlternate1: {fileID: 0}
+  rarity: 1

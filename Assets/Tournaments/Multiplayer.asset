@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 050cf191ae4392648ae011c4c4477ab5, type: 3}
+  m_Name: Multiplayer
+  m_EditorClassIdentifier: 
+  type: 3
+  coursePool:
+  - {fileID: 11400000, guid: 2da26e9e52b700442936e7b5150dbc8d, type: 2}
+  - {fileID: 11400000, guid: 892ef2ad8a22798498d5a66879f6d934, type: 2}
+  - {fileID: 11400000, guid: 4ce4e8e21b300064caa496f6f8a93808, type: 2}
+  - {fileID: 11400000, guid: f1d46c5dcde5a2e44a4983233b94ae7d, type: 2}
+  - {fileID: 11400000, guid: ce013ef518da6ab4abfd353697a5e44e, type: 2}
+  - {fileID: 11400000, guid: f0d09b2bbbe6abf4cac667f7a3ab4469, type: 2}
+  - {fileID: 11400000, guid: c19b35bf756615f4cad65ca62eca13fc, type: 2}
+  tournamentLenght: 9
+  holes:
+  - par: 3
+    holeScene: C2H2
+    preferedShot: 1
+  - par: 4
+    holeScene: C2H3
+    preferedShot: 0
+  - par: 3
+    holeScene: C2H4
+    preferedShot: 0
+  - par: 3
+    holeScene: C4H2
+    preferedShot: 0
+  - par: 3
+    holeScene: C4H1
+    preferedShot: 0
+  - par: 4
+    holeScene: C4H5
+    preferedShot: 0
+  windSeed: 
+  reward:
+    discProperties: 0400000002000000
+    mouldName: 6
+    discColor: {r: 1, g: 1, b: 1, a: 1}
+    stampColor: {r: 0.35590956, g: 0.7735448, b: 0.8113208, a: 0.8862745}
+  opponents: []
+  discData: {fileID: 11400000, guid: 0a5a3461725d7da4588c3f11d4aa72be, type: 2}
+  rewardSettings: {fileID: 11400000, guid: c5571b50f34dffa47935dbbbe31a02ab, type: 2}
+  openTournamentID: -LQcqVXX3LUfwQrShWZh

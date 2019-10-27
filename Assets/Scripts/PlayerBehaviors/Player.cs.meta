@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: 193cc76b107b1634fa88e680b6755bfa
+timeCreated: 1507812630
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - discPrefab: {fileID: 1721550372401794, guid: 885a69d4ac0176b4b85f648d9a7f71d7,
+      type: 2}
+  - curentDisc: {instanceID: 0}
+  - curentDiscScript: {instanceID: 0}
+  - discHolder: {instanceID: 0}
+  - discBagButton: {instanceID: 0}
+  - reachbackPanel: {instanceID: 0}
+  - panPanel: {instanceID: 0}
+  - rotateAroundPoint: {instanceID: 0}
+  - popUpText: {instanceID: 0}
+  - moveToLieButton: {instanceID: 0}
+  - completeHolePane: {instanceID: 0}
+  - playerCamera: {instanceID: 0}
+  - mainCam: {instanceID: 0}
+  - puttCam: {instanceID: 0}
+  - insideBasketCollider: {instanceID: 0}
+  - miniMap: {instanceID: 0}
+  - tapInButton: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

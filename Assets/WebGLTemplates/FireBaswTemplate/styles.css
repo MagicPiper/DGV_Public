@@ -1,0 +1,18 @@
+body {
+    min-height: 100vh;
+}
+
+.gradient-background {
+    background: rgb(106,239,184);
+    background: -moz-linear-gradient(0deg, rgba(106,239,184,0.5214460784313726) 0%, rgba(0,212,255,0.35057773109243695) 100%);
+    background: -webkit-linear-gradient(0deg, rgba(106,239,184,0.5214460784313726) 0%, rgba(0,212,255,0.35057773109243695) 100%);
+    background: linear-gradient(0deg, rgba(106,239,184,0.5214460784313726) 0%, rgba(0,212,255,0.35057773109243695) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#6aefb8",endColorstr="#00d4ff",GradientType=1);
+}
+
+#gameContainer {
+    margin-top: 70px !important;
+    margin: 0 auto !important;
+    padding: 20 !important;
+    border: 6px #000 solid !important;
+}

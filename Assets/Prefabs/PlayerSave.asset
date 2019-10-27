@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eaec274c821bd0a4a9d7f356bf5885ce, type: 3}
+  m_Name: PlayerSave
+  m_EditorClassIdentifier: 
+  startingDisc:
+    discProperties: 01000000
+    mouldName: 1
+    discColor: {r: 0, g: 0, b: 0, a: 0}
+    stampColor: {r: 0, g: 0, b: 0, a: 0}
+    colorsName: Red1
+    stampVariant: 0
+  legacyCrab:
+    discProperties: 0400000005000000
+    mouldName: 98
+    discColor: {r: 0, g: 0, b: 0, a: 0}
+    stampColor: {r: 0, g: 0, b: 0, a: 0}
+    colorsName: Red1
+    stampVariant: 0
+  start: {fileID: 0}
+  discData: {fileID: 11400000, guid: 0a5a3461725d7da4588c3f11d4aa72be, type: 2}

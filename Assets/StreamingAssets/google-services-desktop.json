@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "480706417920",
+    "firebase_url": "https://discgolfvalley.firebaseio.com",
+    "project_id": "discgolfvalley",
+    "storage_bucket": "discgolfvalley.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480706417920:android:1c4ac4bd3dee9d6f",
+        "android_client_info": {
+          "package_name": "com.Per.DiscGolf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480706417920-9q2utodo8pj8p0j98otsnhb9kgf4tfbs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFDuzkpnIABJ4ER-BhBLpoPiHFfpCQG1E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

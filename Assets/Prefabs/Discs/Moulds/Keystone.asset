@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df5d51eb9d99ccb41b32485bc08a4d7a, type: 3}
+  m_Name: Keystone
+  m_EditorClassIdentifier: 
+  mouldName: 8
+  mouldDescription: Understable putt and approach disc. Easy turnovers and straight
+    flights even at low speeds.
+  discType: 1
+  stability: 2
+  drag: 6.5
+  lift: 4
+  turn: 2.3
+  fade: 0.7
+  baseWeight: 175
+  speed: 2
+  mouldStamp: {fileID: 21300000, guid: 39709b821d9e75a449709d2a726e570f, type: 3}
+  mouldStampAlternate1: {fileID: 0}
+  rarity: 0
