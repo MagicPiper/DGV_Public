@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb559323c0be7f94b9b003fa2c75e840, type: 3}
+  m_Name: Mountain Toss
+  m_EditorClassIdentifier: 
+  courseID: 11
+  courseVersion: v1
+  courseName: Mountain Toss
+  courseDescription: Toss down some mountains in a tropical setting. Harder than it
+    looks.
+  holes:
+  - par: 3
+    difficulty: 0.003
+    holeScene: C11H1
+    preferedShot: 2
+  - par: 3
+    difficulty: -0.5
+    holeScene: C11H2
+    preferedShot: 1
+  - par: 3
+    difficulty: -0.25
+    holeScene: C11H3
+    preferedShot: 1
+  - par: 5
+    difficulty: 0.33
+    holeScene: C11H4
+    preferedShot: 2
+  - par: 5
+    difficulty: 0.15
+    holeScene: C11H5
+    preferedShot: 2
+  - par: 4
+    difficulty: -0.25
+    holeScene: C11H6
+    preferedShot: 2
+  - par: 3
+    difficulty: -0.5
+    holeScene: C11H7
+    preferedShot: 1
+  - par: 4
+    difficulty: -0.33
+    holeScene: C11H8
+    preferedShot: 2
+  - par: 4
+    difficulty: 0.5
+    holeScene: C11H9
+    preferedShot: 1
+  challengeLimits: 0700000000000000f7ffffff
+  challengeRewards:
+  - discProperties: 
+    mouldName: 6
+    colorsName: GreyBurst2
+    stampVariant: 0
+  - discProperties: 
+    mouldName: 9
+    colorsName: GreenBurst1
+    stampVariant: 0
+  - discProperties: 
+    mouldName: 12
+    colorsName: PinkBurst1
+    stampVariant: 0
+  starsToUnlock: 18
+  courseImage: {fileID: 0}
