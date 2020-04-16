@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb559323c0be7f94b9b003fa2c75e840, type: 3}
+  m_Name: Sunset Ranch
+  m_EditorClassIdentifier: 
+  courseID: 10
+  courseVersion: v1
+  courseName: Sunset Ranch
+  courseDescription: Dont let the breathtaking sunsets distract you from the big drops.
+    Choose your disc wisely.
+  holes:
+  - par: 3
+    difficulty: -0.5
+    holeScene: C10H1
+    preferedShot: 2
+  - par: 3
+    difficulty: -0.15
+    holeScene: C10H2
+    preferedShot: 2
+  - par: 4
+    difficulty: -0.003
+    holeScene: C10H3
+    preferedShot: 2
+  - par: 3
+    difficulty: -0.15
+    holeScene: C10H4
+    preferedShot: 2
+  - par: 3
+    difficulty: 0.25
+    holeScene: C10H5
+    preferedShot: 2
+  - par: 3
+    difficulty: 0.5
+    holeScene: C10H6
+    preferedShot: 2
+  - par: 4
+    difficulty: 0.33
+    holeScene: C10H7
+    preferedShot: 2
+  - par: 3
+    difficulty: 0.33
+    holeScene: C10H8
+    preferedShot: 2
+  - par: 4
+    difficulty: 0.003
+    holeScene: C10H9
+    preferedShot: 2
+  challengeLimits: 0500000000000000f7ffffff
+  challengeRewards:
+  - discProperties: 
+    mouldName: 2
+    colorsName: Teal1
+    stampVariant: 0
+  - discProperties: 
+    mouldName: 3
+    colorsName: Lime1
+    stampVariant: 0
+  - discProperties: 
+    mouldName: 11
+    colorsName: FireBurst1
+    stampVariant: 0
+  starsToUnlock: 15
+  courseImage: {fileID: 0}
